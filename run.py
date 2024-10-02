@@ -1,4 +1,7 @@
 import asyncio
+import time
+time.sleep(7)
+
 
 from create_bot import bot, dp
 
